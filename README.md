@@ -1,4 +1,4 @@
-This is your group repo for your final project for COGS108.
+oThis is your group repo for your final project for COGS108.
 
 This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
 
@@ -15,3 +15,6 @@ But this is *your* repo. You are free to manage the repo as you see fit, edit th
 At the final project date there is an option to make your final project visible to others.  If you choose this option your repo will become publicly visible. 
 
 Also, you are encouraged to share this project after the course and to add it to your portfolio. If your repo is public you may fork it. If it is private you may follow [these instructions](https://docs.google.com/document/d/1_PP-vlsyWjNegGGsmeDB5B-ltjYW1Db14q9dx3HM9e4/edit?usp=sharing)
+
+EDA Contribution of this Branch:
+- Explores the effects of region on ticket price to see if there is a possible categorical effect there
